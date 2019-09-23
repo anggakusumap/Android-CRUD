@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Data Mahasiswa</string>
+    <string name="nim">NIM : </string>
+    <string name="name">Nama : </string>
+    <string name="hobi">Hobi : </string>
+    <string name="phone">No. HP : </string>
+    <string name="h_nim">Masukkan NIM</string>
+    <string name="h_name">Masukkan Nama</string>
+    <string name="h_hobi">Masukkan Hobi</string>
+    <string name="h_phone">Masukkan No. HP</string>
+    <string name="mod">Modify</string>
+    <string name="inst_text">Tekan list Mahasiswa \n untuk memulai edit!</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+</resources>
